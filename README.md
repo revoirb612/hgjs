@@ -1,0 +1,2 @@
+# hgjs
+ first javascript
